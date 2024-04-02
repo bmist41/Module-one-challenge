@@ -1,13 +1,15 @@
+/* This is the universally applied section in CSS */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* This is the format of an element */
 body {
     background-color: #d9dcd6;
 }
 
+/* This is the format of an class */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +51,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* This is the central background image */
 .hero {
     height: 800px;
     width: 100%;
